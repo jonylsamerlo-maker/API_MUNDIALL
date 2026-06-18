@@ -304,3 +304,4 @@ fixture.json
 ```
 
 Ese archivo se monta dentro del contenedor PHP, asi que los partidos quedan guardados en el proyecto local aunque se detengan los contenedores.
+como no voy a pagar una API prefiero hacerla yo.
