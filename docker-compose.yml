@@ -1,0 +1,18 @@
+services:
+  web:
+    build: .
+    image: mundial-mvp:latest
+    ports:
+      - "80:80"
+    depends_on:
+      - php
+    restart: unless-stopped
+
+  php:
+    image: php:8.3-cli
+    working_dir: /app
+    volumes:
+      - ./api.php:/app/api.php:ro
+      - ./fixture.json:/app/fixture.json
+    command: php -S 0.0.0.0:8000 api.php
+    restart: unless-stopped
