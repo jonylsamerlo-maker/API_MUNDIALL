@@ -1,3 +1,5 @@
+<img width="1366" height="768" alt="fronted" src="https://github.com/user-attachments/assets/ec87e2c2-4e6c-42c7-a19d-446ff7a48fdb" />
+<img width="1366" height="768" alt="backed" src="https://github.com/user-attachments/assets/138bb42a-3ed5-453d-85a3-8ab7312a305d" />
 # Mundial 2026 Fixture MVP
 
 Aplicacion MVP para consultar y administrar partidos del Mundial 2026.
