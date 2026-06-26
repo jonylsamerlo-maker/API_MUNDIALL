@@ -11,5 +11,18 @@
         "status": "Finalizado",
         "homeScore": 2,
         "awayScore": 0
+    },
+    {
+        "id": "17824316372683",
+        "phase": "Fase de grupos",
+        "group": "A",
+        "homeTeam": "1",
+        "awayTeam": "2",
+        "stadium": "TEST",
+        "city": "TEST",
+        "date": "2026-06-26T23:53",
+        "status": "Programado",
+        "homeScore": 2,
+        "awayScore": 1
     }
 ]
